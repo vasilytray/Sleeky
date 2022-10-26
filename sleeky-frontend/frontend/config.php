@@ -49,11 +49,11 @@ define('colour', '#007bff');
 // These are the links in the footer. Add a new link for each new link.
 // The array follows a title link structure:
 // "TITLE" => "LINK",
-$footerLinks = [
+$footerLinks = array(
     "About"   =>  "https://sleeky.flynntes.com/",
     "Contact" =>  "https://yourls.org/",
     "Legal"   =>  "https://yourls.org/",
     "Admin"   =>  "/admin"
-];
+);
 
 ?>
